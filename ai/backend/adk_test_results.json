@@ -1,0 +1,82 @@
+{
+  "session_id": "session_20250726_184429",
+  "user_query": "How can I improve my investment portfolio?",
+  "final_response": "Unable to synthesize responses due to model unavailability",
+  "agent_responses": [
+    {
+      "agent_id": "data_analyst",
+      "agent_name": "Financial Data Analyst",
+      "confidence": 0.3,
+      "response_summary": "Agent Financial Data Analyst analysis: Unable to process due to model unavailability",
+      "timestamp": "2025-07-26T18:44:29.013784"
+    },
+    {
+      "agent_id": "investment_advisor",
+      "agent_name": "Investment Advisor",
+      "confidence": 0.3,
+      "response_summary": "Agent Investment Advisor analysis: Unable to process due to model unavailability",
+      "timestamp": "2025-07-26T18:44:29.013793"
+    },
+    {
+      "agent_id": "cash_flow_specialist",
+      "agent_name": "Cash Flow Specialist",
+      "confidence": 0.3,
+      "response_summary": "Agent Cash Flow Specialist analysis: Unable to process due to model unavailability",
+      "timestamp": "2025-07-26T18:44:29.013800"
+    },
+    {
+      "agent_id": "critic",
+      "agent_name": "Critic Agent",
+      "confidence": 0.3,
+      "response_summary": "Agent Critic Agent analysis: Unable to process due to model unavailability",
+      "timestamp": "2025-07-26T18:44:29.013805"
+    }
+  ],
+  "collaboration_log": [
+    {
+      "step": "individual_analysis",
+      "agent_id": "data_analyst",
+      "agent_name": "Financial Data Analyst",
+      "timestamp": "2025-07-26T18:44:29.013786",
+      "response_summary": "Agent Financial Data Analyst analysis: Unable to process due to model unavailability"
+    },
+    {
+      "step": "individual_analysis",
+      "agent_id": "investment_advisor",
+      "agent_name": "Investment Advisor",
+      "timestamp": "2025-07-26T18:44:29.013794",
+      "response_summary": "Agent Investment Advisor analysis: Unable to process due to model unavailability"
+    },
+    {
+      "step": "individual_analysis",
+      "agent_id": "cash_flow_specialist",
+      "agent_name": "Cash Flow Specialist",
+      "timestamp": "2025-07-26T18:44:29.013800",
+      "response_summary": "Agent Cash Flow Specialist analysis: Unable to process due to model unavailability"
+    },
+    {
+      "step": "individual_analysis",
+      "agent_id": "critic",
+      "agent_name": "Critic Agent",
+      "timestamp": "2025-07-26T18:44:29.013806",
+      "response_summary": "Agent Critic Agent analysis: Unable to process due to model unavailability"
+    },
+    {
+      "step": "critic_validation",
+      "agent_id": "critic",
+      "agent_name": "Critic Agent",
+      "timestamp": "2025-07-26T18:44:29.013816",
+      "validation_status": "UNKNOWN",
+      "critical_errors": 1,
+      "moderate_concerns": 0
+    },
+    {
+      "step": "coordinator_synthesis",
+      "agent_id": "coordinator",
+      "agent_name": "Coordinator Agent",
+      "timestamp": "2025-07-26T18:44:29.013822",
+      "synthesis_summary": "Unable to synthesize responses due to model unavailability"
+    }
+  ],
+  "timestamp": "2025-07-26T18:44:29.013774"
+}

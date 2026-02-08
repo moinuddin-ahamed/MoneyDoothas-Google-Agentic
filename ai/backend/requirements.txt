@@ -1,0 +1,43 @@
+# Core dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-dotenv==1.0.0
+
+# Google Cloud dependencies
+google-cloud-aiplatform==1.71.1
+google-cloud-firestore==2.13.1
+google-cloud-functions==1.13.1
+google-cloud-storage==2.10.0
+google-auth==2.23.4
+
+# Google Agent Development Kit (ADK)
+google-cloud-aiplatform[agents]==1.71.1
+google-cloud-aiplatform[agent-development-kit]==1.71.1
+
+# AI/ML dependencies
+google-generativeai==0.3.2
+vertexai==1.71.1
+
+# Database and storage
+firebase-admin==6.2.0
+redis==5.0.1
+
+# HTTP and async
+httpx==0.25.2
+aiohttp==3.9.1
+requests==2.31.0
+
+# Utilities
+python-dateutil==2.8.2
+pandas==2.1.4
+numpy==1.25.2
+
+# Development
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+flake8==6.1.0
+
+# Security
+cryptography==45.0.2 
