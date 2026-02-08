@@ -188,7 +188,7 @@ Google Cloud Platform:
 - **Data Export**: Users can export their insights
 - **Anonymization**: Optional data anonymization
 
-## 📈 **Scalability & Performance**
+## **Scalability & Performance**
 
 ### **Horizontal Scaling**
 - **Stateless Design**: Easy horizontal scaling
@@ -280,19 +280,19 @@ ws.onmessage = function(event) {
 
 ## **Future Roadmap**
 
-### **Phase 1: Core Features** ✅
+### **Phase 1: Core Features**
 - Multi-agent financial analysis
 - Phone number-based user management
 - Real-time financial data integration
 - Conversational AI interface
 
-### **Phase 2: Advanced Features** 🚧
+### **Phase 2: Advanced Features**
 - Predictive financial modeling
 - Advanced portfolio optimization
 - Real-time market integration
 - Enhanced security features
 
-### **Phase 3: Enterprise Features** 📋
+### **Phase 3: Enterprise Features**
 - Multi-tenant architecture
 - Advanced analytics dashboard
 - Custom agent development
